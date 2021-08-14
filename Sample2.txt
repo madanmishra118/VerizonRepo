@@ -1,1 +1,2 @@
-First commit in sample2
+First commit.
+Overwriting sample 2
